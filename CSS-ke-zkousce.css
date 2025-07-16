@@ -16,7 +16,7 @@ header {
 
 header h1 {
   margin: 0;
-  font-size: 2.5rem;
+  font-size: 4rem;
   color: #d63384;
 }
 
@@ -45,15 +45,17 @@ header h1 {
 }
 
 .author-card h2 {
-  font-size: 3.5rem;
+  font-family: 'Passions Conflict', cursive;
+  font-size: 6rem;
   margin: 0.5rem 0;
   color: #e75480;
 }
 
 .author-card p {
+  font-weight: bold;
   font-size: 1rem;
   margin: 0.5rem 0;
-  color: #23000b;
+  color: #58112f;
 }
 
 .author-card img {
